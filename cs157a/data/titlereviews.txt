@@ -1,0 +1,20 @@
+2001	1001	tt0000630	the legendary show was awesome!	9
+2002	1002	tt0001038	sherlock killing it with his mental prowess!	10
+2003	1002	tt0000630	eh, I fell asleep	3
+2004	1003	tt0086190	Flawed, very entertaining solid third sequel an epic conclusion to the original trilogy!	8
+2005	1001	tt0086190	Underrated	10
+2006	1004	tt0086190	A touching end	9
+2007	1005	tt0086190	Age helps final episode of sci-fi saga	7
+2008	1003	tt0086567	Ahead of it's time	10
+2009	1005	tt0086567	An old favorite of many	8
+2010	1006	tt0086567	The only winning move is not to play	8
+2011	1008	tt0086567	Thoroughly exciting and enjoyable thriller	8
+2012	1010	tt0086567	A must-see movie	9
+2013	1009	tt0420910	Not that intersting	5
+2014	1005	tt0420910	Okay movie, not the greatest but still enjoyable	6
+2015	1015	tt0420910	Bad movie, hated it	2
+2016	1001	tt0033766	I liked it	7
+2017	1004	tt0033766	Funny, engaging comedy	10
+2018	1007	tt0033766	Delightful to watch	9
+2019	1013	tt0033766	An enjoyable comedy	8
+2020	1005	tt0033766	So adorable!	8

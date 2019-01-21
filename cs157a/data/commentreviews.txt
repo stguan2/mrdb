@@ -1,0 +1,14 @@
+3002	1002	2002	this guy doesn't know what he's talking about	-1
+3003	1002	2003	i agree with the review	1
+3004	1003	2003	I do not agree with the review	-1
+3005	1004	2004	I agree with this review. This movie is perfect	1
+3006	1001	2012	Very helpful review	1
+3007	1005	2012	Yes indeed	1
+3008	1004	2016	Bad review	-1
+3009	1006	2017	I agree	1
+3010	1007	2019	Yes, the movie was very funny	1
+3011	1006	2015	You have bad taste in movies	-1
+3012	1005	2006	Indeed it has a very good ending	1
+3013	1008	2006	The ending was definitely amazing	1
+3014	1015	2006	I didn't find the ending to be that great	-1
+3015	1006	2020	I agree with the review	1
